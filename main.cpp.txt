@@ -15,6 +15,10 @@ int main()
 	cout << "Enter your favourite subject: \n";
 	cin >> subject;
 
+	char surname[128];
+	cout << "Enter surname name: \n";
+	cin >> surname;
+	
 	system("pause");
 	return 0;
 }
