@@ -18,6 +18,10 @@ int main()
 	char surname[128];
 	cout << "Enter surname name: \n";
 	cin >> surname;
+
+	char sport[128];
+	cout << "Enter you favourite sport: \n";
+	cin >> sport;
 	
 	system("pause");
 	return 0;
