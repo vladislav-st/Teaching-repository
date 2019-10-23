@@ -11,6 +11,10 @@ int main()
 	cout << "Enter your age: \n";
 	cin >> age;
 
+	char subject[128];
+	cout << "Enter your favourite subject: \n";
+	cin >> subject;
+
 	system("pause");
 	return 0;
 }
