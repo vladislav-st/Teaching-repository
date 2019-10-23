@@ -7,6 +7,10 @@ int main()
 	cout << "Enter your name: \n";
 	cin >> name;
 
+	int age;
+	cout << "Enter your age: \n";
+	cin >> age;
+
 	system("pause");
 	return 0;
 }
