@@ -2,7 +2,27 @@
 using namespace std;
 
 int main()
-{
+{	
+	char name[128];
+	cout << "Enter your name: \n";
+	cin >> name;
+
+	int age;
+	cout << "Enter your age: \n";
+	cin >> age;
+
+	char subject[128];
+	cout << "Enter your favourite subject: \n";
+	cin >> subject;
+
+	char surname[128];
+	cout << "Enter surname name: \n";
+	cin >> surname;
+
+	char sport[128];
+	cout << "Enter you favourite sport: \n";
+	cin >> sport;
+	
 	system("pause");
 	return 0;
 }
