@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {	
 	cout << "Dobriy den!\n";
+	cout << "Dobriy den2!\n";
 	system("pause");
 	return 0;
 }
